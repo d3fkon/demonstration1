@@ -8,6 +8,6 @@
   job: 
     job-name: "d3fkonxdemonstration1"
     config: 
-      pre-unit-test: "yes"
+      pre-unit-test: "no"
       post-unit-test: "no"
       dev: "no"
